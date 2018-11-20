@@ -2,9 +2,13 @@
 ####!/bin/sh
 
 #!/bin/sh
-#modify by cat
+#modify by cat  20181111
 #
+#
+
+
 a=1
+aaaa add at 11
 a=$((a+1))
 b=$((a+1))
 echo $a,$b
