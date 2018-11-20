@@ -10,9 +10,10 @@
 a=1
 aaaa add at 11
 a=$((a+1))
-b=$((a+1))
+b=$((a+2))
 echo $a,$b
 
+16 add
 exit
 
 
